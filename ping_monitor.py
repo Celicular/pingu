@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # Hardcoded URL - replace with your target website
-URL = "https://example.com"
+URL = "https://hswebsolution.onrender.com/"
 
 def ping_website():
     while True:
